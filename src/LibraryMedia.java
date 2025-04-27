@@ -15,7 +15,7 @@ public class LibraryMedia {
     }
 
     public void checkNumberOfPages(){
-        if
+        if()
     }
 
 }
